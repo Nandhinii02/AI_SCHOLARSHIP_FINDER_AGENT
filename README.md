@@ -1,0 +1,2 @@
+# AI_SCHOLARSHIP_FINDER_AGENT
+agent ai
